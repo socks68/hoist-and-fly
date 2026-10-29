@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.450" height="168.700" viewBox="0.400 0.150 253.450 168.700">
+<defs>
+<clipPath id="clip-0">
+<path d="M .25 0 L 253.99 0 L 253.99 169.16 L .25 169.16 Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-0)">
+<path fill="#003da5" d="M .24 169.16 L .24 0 L 254 0 Z"/>
+<path fill="#009a44" d="M .24 169.16 L 254 169.16 L 254 0 Z"/>
+<path fill="none" stroke-width="56.694" stroke-linecap="butt" stroke-linejoin="miter" stroke="#ffffff" stroke-miterlimit="10" d="M -127.57 -85.04 L 127.57 85.04" transform="matrix(.99461, 0, 0, -.99461, 127.12037, 84.58198)"/>
+<path fill="none" stroke-width="42.52" stroke-linecap="butt" stroke-linejoin="miter" stroke="#ba0c2f" stroke-miterlimit="10" d="M -127.57 -85.04 L 127.57 85.04" transform="matrix(.99461, 0, 0, -.99461, 127.12037, 84.58198)"/>
+</g>
+<path fill="#ffc72c" d="M 50.99 18.33 L 46.61 30.18 L 36.89 22.11 L 39.02 34.56 L 26.57 32.42 L 34.65 42.14 L 22.79 46.52 L 34.65 50.9 L 26.57 60.61 L 39.02 58.48 L 36.89 70.93 L 46.61 62.86 L 50.99 74.71 L 55.36 62.86 L 65.08 70.93 L 62.95 58.48 L 75.4 60.61 L 67.32 50.9 L 79.18 46.52 L 67.32 42.14 L 75.4 32.42 L 62.95 34.56 L 65.08 22.11 L 55.36 30.18 Z"/>
+<path fill-rule="evenodd" fill="#003da5" d="M 67.9 46.52 C 67.9 37.18 60.33 29.6 50.99 29.6 C 41.64 29.6 34.07 37.18 34.07 46.52 C 34.07 55.86 41.64 63.44 50.99 63.44 C 60.33 63.44 67.9 55.86 67.9 46.52 Z M 65.08 46.52 C 65.08 38.73 58.77 32.42 50.99 32.42 C 43.2 32.42 36.89 38.73 36.89 46.52 C 36.89 54.3 43.2 60.61 50.99 60.61 C 58.77 60.61 65.08 54.3 65.08 46.52 Z"/>
+</svg>

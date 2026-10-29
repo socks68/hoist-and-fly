@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.200" height="168.700" viewBox="0.400 0.150 253.200 168.700">
+<defs>
+<clipPath id="clip-0">
+<path d="M .25 0 L 253.99 0 L 253.99 34 L .25 34 Z"/>
+</clipPath>
+<clipPath id="clip-1">
+<path d="M .25 33 L 253.99 33 L 253.99 68 L .25 68 Z"/>
+</clipPath>
+<clipPath id="clip-2">
+<path d="M .25 67 L 253.99 67 L 253.99 102 L .25 102 Z"/>
+</clipPath>
+<clipPath id="clip-3">
+<path d="M .25 101 L 253.99 101 L 253.99 136 L .25 136 Z"/>
+</clipPath>
+<clipPath id="clip-4">
+<path d="M .25 135 L 253.99 135 L 253.99 169.16 L .25 169.16 Z"/>
+</clipPath>
+<clipPath id="clip-5">
+<path d="M .25 0 L 102 0 L 102 102 L .25 102 Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-0)">
+<path fill="#00b140" d="M .24 33.84 L .24 0 L 254 0 L 254 33.84 Z"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="#fdda25" d="M .24 67.67 L .24 33.84 L 254 33.84 L 254 67.67 Z"/>
+</g>
+<g clip-path="url(#clip-2)">
+<path fill="#00b140" d="M .24 101.5 L .24 67.67 L 254 67.67 L 254 101.5 Z"/>
+</g>
+<g clip-path="url(#clip-3)">
+<path fill="#fdda25" d="M .24 135.33 L .24 101.5 L 254 101.5 L 254 135.33 Z"/>
+</g>
+<g clip-path="url(#clip-4)">
+<path fill="#00b140" d="M .24 169.16 L .24 135.33 L 254 135.33 L 254 169.16 Z"/>
+</g>
+<g clip-path="url(#clip-5)">
+<path fill="#c8102e" d="M .24 101.5 L .24 0 L 101.74 0 L 101.74 101.5 Z"/>
+</g>
+<path fill="#ffffff" d="M 50.99 18.61 L 43.77 40.82 L 20.42 40.82 L 39.31 54.54 L 32.09 76.75 L 50.99 63.03 L 69.88 76.75 L 62.66 54.54 L 81.55 40.82 L 58.2 40.82 Z"/>
+</svg>

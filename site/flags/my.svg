@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="338.200" height="168.700" viewBox="0.650 0.150 338.200 168.700">
+<defs>
+<clipPath id="clip-0">
+<path d="M .5 0 L 338.82 0 L 338.82 169.16 L .5 169.16 Z"/>
+</clipPath>
+<clipPath id="clip-1">
+<path d="M .5 144 L 338.82 144 L 338.82 158 L .5 158 Z"/>
+</clipPath>
+<clipPath id="clip-2">
+<path d="M .5 120 L 338.82 120 L 338.82 133 L .5 133 Z"/>
+</clipPath>
+<clipPath id="clip-3">
+<path d="M .5 96 L 338.82 96 L 338.82 109 L .5 109 Z"/>
+</clipPath>
+<clipPath id="clip-4">
+<path d="M .5 72 L 338.82 72 L 338.82 85 L .5 85 Z"/>
+</clipPath>
+<clipPath id="clip-5">
+<path d="M .5 48 L 338.82 48 L 338.82 61 L .5 61 Z"/>
+</clipPath>
+<clipPath id="clip-6">
+<path d="M .5 24 L 338.82 24 L 338.82 37 L .5 37 Z"/>
+</clipPath>
+<clipPath id="clip-7">
+<path d="M .5 0 L 338.82 0 L 338.82 13 L .5 13 Z"/>
+</clipPath>
+<clipPath id="clip-8">
+<path d="M .5 0 L 170 0 L 170 97 L .5 97 Z"/>
+</clipPath>
+<clipPath id="clip-9">
+<path d="M 33 12 L 107 12 L 107 85 L 33 85 Z"/>
+</clipPath>
+<clipPath id="clip-10">
+<path d="M 106.22 48.33 C 106.22 28.31 89.99 12.09 69.97 12.09 C 49.95 12.09 33.72 28.31 33.72 48.33 C 33.72 68.35 49.95 84.58 69.97 84.58 C 89.99 84.58 106.22 68.35 106.22 48.33 Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-0)">
+<path fill="#ffffff" d="M .5 169.16 L .5 0 L 338.82 0 L 338.82 169.16 Z"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="#e03c31" d="M .5 157.08 L .5 145 L 338.82 145 L 338.82 157.08 Z"/>
+</g>
+<g clip-path="url(#clip-2)">
+<path fill="#e03c31" d="M .5 132.91 L .5 120.83 L 338.82 120.83 L 338.82 132.91 Z"/>
+</g>
+<g clip-path="url(#clip-3)">
+<path fill="#e03c31" d="M .5 108.75 L .5 96.66 L 338.82 96.66 L 338.82 108.75 Z"/>
+</g>
+<g clip-path="url(#clip-4)">
+<path fill="#e03c31" d="M .5 84.58 L .5 72.5 L 338.82 72.5 L 338.82 84.58 Z"/>
+</g>
+<g clip-path="url(#clip-5)">
+<path fill="#e03c31" d="M .5 60.41 L .5 48.33 L 338.82 48.33 L 338.82 60.41 Z"/>
+</g>
+<g clip-path="url(#clip-6)">
+<path fill="#e03c31" d="M .5 36.25 L .5 24.16 L 338.82 24.16 L 338.82 36.25 Z"/>
+</g>
+<g clip-path="url(#clip-7)">
+<path fill="#e03c31" d="M .5 12.08 L .5 0 L 338.82 0 L 338.82 12.08 Z"/>
+</g>
+<g clip-path="url(#clip-8)">
+<path fill="#041e42" d="M .5 96.66 L .5 0 L 169.66 0 L 169.66 96.66 Z"/>
+</g>
+<g clip-path="url(#clip-9)">
+<g clip-path="url(#clip-10)">
+<path fill-rule="evenodd" fill="#ffd100" d="M 106.58 48.33 C 106.58 28.11 90.19 11.72 69.97 11.72 C 49.75 11.72 33.36 28.11 33.36 48.33 C 33.36 68.55 49.75 84.94 69.97 84.94 C 90.19 84.94 106.58 68.55 106.58 48.33 Z M 109.24 48.33 C 109.24 30.82 95.04 16.61 77.52 16.61 C 60.01 16.61 45.8 30.82 45.8 48.33 C 45.8 65.85 60.01 80.05 77.52 80.05 C 95.04 80.05 109.24 65.85 109.24 48.33 Z"/>
+</g>
+</g>
+<path fill="#ffd100" d="M 106.22 18.12 L 103.54 36.56 L 93.12 21.12 L 98.7 38.89 L 82.61 29.5 L 95.34 43.1 L 76.77 41.61 L 94.14 48.33 L 76.77 55.05 L 95.34 53.57 L 82.61 67.17 L 98.7 57.77 L 93.12 75.55 L 103.54 60.11 L 106.22 78.54 L 108.91 60.11 L 119.33 75.55 L 113.75 57.77 L 129.84 67.17 L 117.1 53.57 L 135.67 55.05 L 118.3 48.33 L 135.67 41.61 L 117.1 43.1 L 129.84 29.5 L 113.75 38.89 L 119.33 21.12 L 108.91 36.56 Z"/>
+</svg>

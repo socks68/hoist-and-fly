@@ -1,0 +1,190 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="337.950" height="168.700" viewBox="0.650 0.150 337.950 168.700">
+<defs>
+<clipPath id="clip-0">
+<path d="M .5 0 L 338.82 0 L 338.82 85 L .5 85 Z"/>
+</clipPath>
+<clipPath id="clip-1">
+<path d="M .5 84 L 338.82 84 L 338.82 169.16 L .5 169.16 Z"/>
+</clipPath>
+<clipPath id="clip-2">
+<path d="M .5 0 L 147 0 L 147 169.16 L .5 169.16 Z"/>
+</clipPath>
+<clipPath id="clip-3">
+<path d="M 53 79 L 89 79 L 89 91 L 53 91 Z"/>
+</clipPath>
+<clipPath id="clip-4">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-5">
+<path d="M 53 68 L 89 68 L 89 85 L 53 85 Z"/>
+</clipPath>
+<clipPath id="clip-6">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-7">
+<path d="M 53 84 L 89 84 L 89 102 L 53 102 Z"/>
+</clipPath>
+<clipPath id="clip-8">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-9">
+<path d="M 47 48 L 59 48 L 59 85 L 47 85 Z"/>
+</clipPath>
+<clipPath id="clip-10">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-11">
+<path d="M 36 48 L 54 48 L 54 85 L 36 85 Z"/>
+</clipPath>
+<clipPath id="clip-12">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-13">
+<path d="M 53 48 L 70 48 L 70 85 L 53 85 Z"/>
+</clipPath>
+<clipPath id="clip-14">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-15">
+<path d="M 17 79 L 54 79 L 54 91 L 17 91 Z"/>
+</clipPath>
+<clipPath id="clip-16">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-17">
+<path d="M 17 84 L 54 84 L 54 102 L 17 102 Z"/>
+</clipPath>
+<clipPath id="clip-18">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-19">
+<path d="M 17 68 L 54 68 L 54 85 L 17 85 Z"/>
+</clipPath>
+<clipPath id="clip-20">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-21">
+<path d="M 47 84 L 59 84 L 59 121 L 47 121 Z"/>
+</clipPath>
+<clipPath id="clip-22">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-23">
+<path d="M 53 84 L 70 84 L 70 121 L 53 121 Z"/>
+</clipPath>
+<clipPath id="clip-24">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-25">
+<path d="M 36 84 L 54 84 L 54 121 L 36 121 Z"/>
+</clipPath>
+<clipPath id="clip-26">
+<path d="M 88.83 84.58 L 53.12 48.87 L 17.41 84.58 L 53.12 120.29 Z"/>
+</clipPath>
+<clipPath id="clip-27">
+<path d="M 53 59.33 L 78.37 59.33 L 78.37 85 L 53 85 Z"/>
+</clipPath>
+<clipPath id="clip-28">
+<path d="M 27.87 59.33 L 54 59.33 L 54 85 L 27.87 85 Z"/>
+</clipPath>
+<clipPath id="clip-29">
+<path d="M 27.87 84 L 54 84 L 54 109.83 L 27.87 109.83 Z"/>
+</clipPath>
+<clipPath id="clip-30">
+<path d="M 53 84 L 78.37 84 L 78.37 109.83 L 53 109.83 Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-0)">
+<path fill="#0033a0" d="M .5 84.58 L .5 0 L 338.82 0 L 338.82 84.58 Z"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="#bf0d37" d="M .5 169.16 L .5 84.58 L 338.82 84.58 L 338.82 169.16 Z"/>
+</g>
+<g clip-path="url(#clip-2)">
+<path fill="#ffffff" d="M .5 169.16 L 147 84.58 L .5 0 Z"/>
+</g>
+<path fill="#fed141" d="M 8.95 154.52 L 14.03 149.95 L 19.94 153.36 L 17.16 147.12 L 22.23 142.55 L 15.45 143.27 L 12.67 137.03 L 11.25 143.71 L 4.46 144.42 L 10.38 147.84 Z"/>
+<path fill="#fed141" d="M 8.95 14.65 L 10.38 21.33 L 4.46 24.74 L 11.25 25.45 L 12.67 32.13 L 15.45 25.89 L 22.23 26.61 L 17.16 22.04 L 19.94 15.8 L 14.03 19.22 Z"/>
+<path fill="#fed141" d="M 130.08 84.58 L 123.59 82.47 L 123.59 75.64 L 119.57 81.17 L 113.08 79.06 L 117.09 84.58 L 113.08 90.11 L 119.57 88 L 123.59 93.52 L 123.59 86.69 Z"/>
+<path fill="#fed141" d="M 70.04 84.58 C 70.04 75.24 62.46 67.66 53.12 67.66 C 43.78 67.66 36.2 75.24 36.2 84.58 C 36.2 93.93 43.78 101.5 53.12 101.5 C 62.46 101.5 70.04 93.93 70.04 84.58 Z"/>
+<g clip-path="url(#clip-3)">
+<g clip-path="url(#clip-4)">
+<path fill="#fed141" d="M 53.12 84.58 L 137.52 79.05 L 137.52 90.11 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-5)">
+<g clip-path="url(#clip-6)">
+<path fill="#fed141" d="M 53.12 84.58 L 136.98 73.54 L 136.07 68.08 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-7)">
+<g clip-path="url(#clip-8)">
+<path fill="#fed141" d="M 53.12 84.58 L 136.98 95.62 L 136.07 101.08 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-9)">
+<g clip-path="url(#clip-10)">
+<path fill="#fed141" d="M 53.12 84.58 L 47.59 .18 L 58.65 .18 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-11)">
+<g clip-path="url(#clip-12)">
+<path fill="#fed141" d="M 53.12 84.58 L 42.09 .73 L 36.62 1.63 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-13)">
+<g clip-path="url(#clip-14)">
+<path fill="#fed141" d="M 53.12 84.58 L 64.16 .73 L 69.62 1.63 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-15)">
+<g clip-path="url(#clip-16)">
+<path fill="#fed141" d="M 53.12 84.58 L -31.27 90.11 L -31.27 79.05 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-17)">
+<g clip-path="url(#clip-18)">
+<path fill="#fed141" d="M 53.12 84.58 L -30.73 95.62 L -29.83 101.08 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-19)">
+<g clip-path="url(#clip-20)">
+<path fill="#fed141" d="M 53.12 84.58 L -30.73 73.54 L -29.83 68.08 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-21)">
+<g clip-path="url(#clip-22)">
+<path fill="#fed141" d="M 53.12 84.58 L 58.65 168.98 L 47.59 168.98 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-23)">
+<g clip-path="url(#clip-24)">
+<path fill="#fed141" d="M 53.12 84.58 L 64.16 168.44 L 69.62 167.54 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-25)">
+<g clip-path="url(#clip-26)">
+<path fill="#fed141" d="M 53.12 84.58 L 42.09 168.44 L 36.62 167.54 Z"/>
+</g>
+</g>
+<g clip-path="url(#clip-27)">
+<path fill="#fed141" d="M 53.12 84.58 L 108.89 20.99 L 116.71 28.81 Z"/>
+<path fill="#fed141" d="M 53.12 84.58 L 104.61 17.48 L 100.11 14.26 Z"/>
+<path fill="#fed141" d="M 53.12 84.58 L 120.22 33.09 L 123.45 37.59 Z"/>
+</g>
+<g clip-path="url(#clip-28)">
+<path fill="#fed141" d="M 53.12 84.58 L -10.47 28.81 L -2.64 20.99 Z"/>
+<path fill="#fed141" d="M 53.12 84.58 L -13.98 33.09 L -17.2 37.59 Z"/>
+<path fill="#fed141" d="M 53.12 84.58 L 1.63 17.48 L 6.13 14.26 Z"/>
+</g>
+<g clip-path="url(#clip-29)">
+<path fill="#fed141" d="M 53.12 84.58 L -2.64 148.17 L -10.47 140.35 Z"/>
+<path fill="#fed141" d="M 53.12 84.58 L 1.63 151.68 L 6.13 154.91 Z"/>
+<path fill="#fed141" d="M 53.12 84.58 L -13.98 136.07 L -17.2 131.57 Z"/>
+</g>
+<g clip-path="url(#clip-30)">
+<path fill="#fed141" d="M 53.12 84.58 L 116.71 140.35 L 108.89 148.17 Z"/>
+<path fill="#fed141" d="M 53.12 84.58 L 120.22 136.07 L 123.45 131.57 Z"/>
+<path fill="#fed141" d="M 53.12 84.58 L 104.61 151.68 L 100.11 154.91 Z"/>
+</g>
+</svg>

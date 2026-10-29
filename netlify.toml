@@ -1,0 +1,3 @@
+# Netlify: serve the prebuilt site/ folder. No build step is needed.
+[build]
+  publish = "site"

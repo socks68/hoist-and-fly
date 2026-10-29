@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="338.200" height="168.700" viewBox="0.650 0.150 338.200 168.700">
+<defs>
+<clipPath id="clip-0">
+<path d="M .5 0 L 338.82 0 L 338.82 169.16 L .5 169.16 Z"/>
+</clipPath>
+<clipPath id="clip-1">
+<path d="M .5 84 L 338.82 84 L 338.82 169.16 L .5 169.16 Z"/>
+</clipPath>
+<clipPath id="clip-2">
+<path d="M .5 0 L 338.82 0 L 338.82 85 L .5 85 Z"/>
+</clipPath>
+<clipPath id="clip-3">
+<path d="M .5 0 L 338.82 0 L 338.82 169.16 L .5 169.16 Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-0)">
+<path fill="#000000" d="M .5 169.16 L .5 0 L 338.82 0 L 338.82 169.16 Z"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="#00b140" d="M .5 169.16 L 338.82 169.16 L 169.66 84.58 Z"/>
+</g>
+<g clip-path="url(#clip-2)">
+<path fill="#00b140" d="M .5 0 L 338.82 0 L 169.66 84.58 Z"/>
+</g>
+<g clip-path="url(#clip-3)">
+<path fill="none" stroke-width="28.347" stroke-linecap="butt" stroke-linejoin="miter" stroke="#fedb00" stroke-miterlimit="10" d="M -170.08 -85.04 L 170.08 85.04" transform="matrix(.99461, 0, 0, -.99461, 169.65977, 84.58198)"/>
+<path fill="none" stroke-width="28.347" stroke-linecap="butt" stroke-linejoin="miter" stroke="#fedb00" stroke-miterlimit="10" d="M -170.08 85.04 L 170.08 -85.04" transform="matrix(.99461, 0, 0, -.99461, 169.65977, 84.58198)"/>
+</g>
+</svg>

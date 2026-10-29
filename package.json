@@ -1,0 +1,14 @@
+{
+  "name": "hoist-and-fly",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Study the flags of all 197 countries: the story behind each flag, a five-strike quiz, flashcards and a lookalikes guide.",
+  "scripts": {
+    "build": "node tools/build_data.js && node tools/build_site.js",
+    "build:artifact": "node tools/build_data.js && node tools/build_artifact.js",
+    "flags": "sh flags-pipeline/run_all.sh",
+    "serve": "python3 -m http.server 8000 --directory site",
+    "test": "python3 tools/smoke_test.py",
+    "sheets": "python3 tools/contact_sheet.py"
+  }
+}

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="337.950" height="168.700" viewBox="0.650 0.150 337.950 168.700">
+<defs>
+<clipPath id="clip-0">
+<path d="M .5 0 L 338.82 0 L 338.82 169.16 L .5 169.16 Z"/>
+</clipPath>
+<clipPath id="clip-1">
+<path d="M .5 0 L 169.66 0 L 169.66 84.58 L .5 84.58 Z"/>
+</clipPath>
+<clipPath id="clip-2">
+<path d="M 4 0 L 169.66 0 L 169.66 84.58 L 4 84.58 Z"/>
+</clipPath>
+<clipPath id="clip-3">
+<path d="M .5 0 L 167 0 L 167 84.58 L .5 84.58 Z"/>
+</clipPath>
+<clipPath id="clip-4">
+<path d="M 6 0 L 169.66 0 L 169.66 84.58 L 6 84.58 Z"/>
+</clipPath>
+<clipPath id="clip-5">
+<path d="M .5 0 L 164 0 L 164 84.58 L .5 84.58 Z"/>
+</clipPath>
+<clipPath id="clip-6">
+<path d="M .5 0 L 169.66 0 L 169.66 84.58 L .5 84.58 Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-0)">
+<path fill="#6cace4" d="M .5 169.16 L .5 0 L 338.82 0 L 338.82 169.16 Z"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="#012169" d="M .5 84.58 L .5 0 L 169.66 0 L 169.66 84.58 Z"/>
+<path fill="none" stroke-width="17.008" stroke-linecap="butt" stroke-linejoin="miter" stroke="#ffffff" stroke-miterlimit="10" d="M -170.08 85.04 L 0 0 M -170.08 0 L 0 85.04" transform="matrix(.99461, 0, 0, -.99461, 169.65977, 84.58198)"/>
+</g>
+<g clip-path="url(#clip-2)">
+<path fill="none" stroke-width="5.669" stroke-linecap="butt" stroke-linejoin="miter" stroke="#c8102e" stroke-miterlimit="10" d="M -86.31 45.06 L 20.32 98.37" transform="matrix(.99461, 0, 0, -.99461, 169.65977, 84.58198)"/>
+</g>
+<g clip-path="url(#clip-3)">
+<path fill="none" stroke-width="5.669" stroke-linecap="butt" stroke-linejoin="miter" stroke="#c8102e" stroke-miterlimit="10" d="M -83.77 39.98 L -190.4 -13.33" transform="matrix(.99461, 0, 0, -.99461, 169.65977, 84.58198)"/>
+</g>
+<g clip-path="url(#clip-4)">
+<path fill="none" stroke-width="5.669" stroke-linecap="butt" stroke-linejoin="miter" stroke="#c8102e" stroke-miterlimit="10" d="M -83.77 45.06 L 22.86 -8.26" transform="matrix(.99461, 0, 0, -.99461, 169.65977, 84.58198)"/>
+</g>
+<g clip-path="url(#clip-5)">
+<path fill="none" stroke-width="5.669" stroke-linecap="butt" stroke-linejoin="miter" stroke="#c8102e" stroke-miterlimit="10" d="M -86.31 39.98 L -192.94 93.3" transform="matrix(.99461, 0, 0, -.99461, 169.65977, 84.58198)"/>
+</g>
+<g clip-path="url(#clip-6)">
+<path fill="none" stroke-width="28.347" stroke-linecap="butt" stroke-linejoin="miter" stroke="#ffffff" stroke-miterlimit="10" d="M -255.12 42.52 L 85.04 42.52 M -85.04 -85.04 L -85.04 170.08" transform="matrix(.99461, 0, 0, -.99461, 169.65977, 84.58198)"/>
+<path fill="none" stroke-width="17.008" stroke-linecap="butt" stroke-linejoin="miter" stroke="#c8102e" stroke-miterlimit="10" d="M -255.12 42.52 L 85.04 42.52 M -85.04 -85.04 L -85.04 170.08" transform="matrix(.99461, 0, 0, -.99461, 169.65977, 84.58198)"/>
+</g>
+<path fill="#ffcd00" d="M 182.45 138.43 L 179.28 148.17 L 169.04 148.17 L 177.32 154.19 L 174.16 163.93 L 182.45 157.91 L 190.73 163.93 L 187.57 154.19 L 195.85 148.17 L 185.61 148.17 Z"/>
+<path fill="#ffcd00" d="M 214.39 130.84 L 217.55 140.58 L 209.27 146.6 L 219.51 146.6 L 222.67 156.34 L 225.84 146.6 L 236.08 146.6 L 227.79 140.58 L 230.96 130.84 L 222.67 136.86 Z"/>
+<path fill="#ffcd00" d="M 214.39 96.45 L 217.55 106.18 L 209.27 112.21 L 219.51 112.21 L 222.67 121.95 L 225.84 112.21 L 236.08 112.21 L 227.79 106.18 L 230.96 96.45 L 222.67 102.46 Z"/>
+<path fill="#ffcd00" d="M 249.91 122.14 L 253.07 131.89 L 244.79 137.91 L 255.03 137.91 L 258.2 147.65 L 261.36 137.91 L 271.61 137.91 L 263.32 131.89 L 266.48 122.14 L 258.2 128.17 Z"/>
+<path fill="#ffcd00" d="M 249.91 47.32 L 253.07 57.05 L 244.79 63.08 L 255.03 63.08 L 258.2 72.82 L 261.36 63.08 L 271.61 63.08 L 263.32 57.05 L 266.48 47.32 L 258.2 53.34 Z"/>
+<path fill="#ffcd00" d="M 282.02 95.89 L 278.45 105.49 L 268.22 105.06 L 276.25 111.42 L 272.68 121.02 L 281.21 115.35 L 289.23 121.71 L 286.48 111.85 L 295.01 106.18 L 284.78 105.75 Z"/>
+<path fill="#ffcd00" d="M 280.25 36.78 L 283.01 46.64 L 274.48 52.31 L 284.71 52.74 L 287.46 62.6 L 291.04 53 L 301.27 53.43 L 293.24 47.07 L 296.81 37.47 L 288.28 43.14 Z"/>
+<path fill="#ffcd00" d="M 311.43 76.56 L 308.27 86.3 L 298.02 86.3 L 306.31 92.32 L 303.14 102.06 L 311.43 96.04 L 319.71 102.06 L 316.55 92.32 L 324.84 86.3 L 314.59 86.3 Z"/>
+<path fill="#ffcd00" d="M 311.43 10.57 L 308.27 20.31 L 298.02 20.31 L 306.31 26.33 L 303.14 36.07 L 311.43 30.05 L 319.71 36.07 L 316.55 26.33 L 324.84 20.31 L 314.59 20.31 Z"/>
+</svg>

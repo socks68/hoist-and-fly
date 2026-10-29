@@ -1,0 +1,10 @@
+# build output and scratch space
+build/
+data/data.json
+flags-pipeline/work/
+
+# tooling
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store

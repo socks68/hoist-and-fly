@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.200" height="168.700" viewBox="0.400 0.150 253.200 168.700">
+<defs>
+<clipPath id="clip-0">
+<path d="M .25 0 L 253.99 0 L 253.99 169.16 L .25 169.16 Z"/>
+</clipPath>
+<clipPath id="clip-1">
+<path d="M .25 0 L 64 0 L 64 169.16 L .25 169.16 Z"/>
+</clipPath>
+<clipPath id="clip-2">
+<path d="M 190 0 L 253.99 0 L 253.99 169.16 L 190 169.16 Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip-0)">
+<path fill="#ffcd00" d="M .24 169.16 L .24 0 L 254 0 L 254 169.16 Z"/>
+</g>
+<g clip-path="url(#clip-1)">
+<path fill="#005eb8" d="M .24 169.16 L .24 0 L 63.68 0 L 63.68 169.16 Z"/>
+</g>
+<g clip-path="url(#clip-2)">
+<path fill="#009a44" d="M 190.56 169.16 L 190.56 0 L 254 0 L 254 169.16 Z"/>
+</g>
+<path fill="#009a44" d="M 127.12 84.58 L 141.22 112.78 L 127.12 140.97 L 113.02 112.78 Z"/>
+<path fill="#009a44" d="M 144.74 49.34 L 158.84 77.54 L 144.74 105.73 L 130.64 77.54 Z"/>
+<path fill="#009a44" d="M 109.5 49.34 L 123.6 77.54 L 109.5 105.73 L 95.4 77.54 Z"/>
+</svg>
