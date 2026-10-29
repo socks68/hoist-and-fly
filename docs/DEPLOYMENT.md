@@ -22,40 +22,12 @@ Create a Pages project from this repository with **no build command** and **`sit
 
 ## Option 4: GitHub Pages
 
-GitHub Pages can only serve a repository's root or `/docs` folder directly, so publish `site/` with a small workflow:
+This is how the repository is set up. GitHub Pages can only serve a repository's root or `/docs` folder directly, so the included workflow, `.github/workflows/pages.yml`, publishes `site/` instead. It runs on every push to `main` and can be started by hand from the **Actions** tab (**Deploy site to GitHub Pages → Run workflow**).
 
-1. In the repository, open **Settings → Pages** and set **Source** to **GitHub Actions**.
-2. Add this file as `.github/workflows/pages.yml` and push:
+1. In the repository, open **Settings → Pages** and set **Source** to **GitHub Actions** (needed once).
+2. The site appears at `https://<your-user>.github.io/<repository>/` (for this repository, `https://socks68.github.io/hoist-and-fly/`) and updates on every push.
 
-```yaml
-name: Deploy site to GitHub Pages
-on:
-  push:
-    branches: [main]
-  workflow_dispatch:
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-concurrency:
-  group: pages
-  cancel-in-progress: true
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v5
-      - uses: actions/upload-pages-artifact@v5
-        with:
-          path: site
-      - id: deployment
-        uses: actions/deploy-pages@v5
-```
-
-3. The site appears at `https://<your-user>.github.io/<repository>/` and updates on every push. Action versions move on; if GitHub warns that one is outdated, bump the number after `@`.
+Each run is listed in the **Actions** tab. Action versions move on; if GitHub warns that one is outdated, bump the number after `@` in the workflow.
 
 ## Using your own domain
 
