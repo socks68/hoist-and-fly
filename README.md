@@ -101,4 +101,6 @@ netlify.toml          Tells Netlify to publish site/ with no build step
 
 ## License
 
-No license has been chosen yet, so by default all rights are reserved. If you want others to reuse the project, add a `LICENSE` file (for example MIT for the code and CC BY 4.0 for the written content). The worldflags drawings keep their own license (LPPL 1.3).
+Released under the [MIT License](LICENSE): anyone may use, copy, change and share the code and the written content, as long as the copyright notice is kept.
+
+The flag images in `site/flags/` are rendered from the [worldflags](https://ctan.org/pkg/worldflags) package and keep its license, the LaTeX Project Public License 1.3. The fonts are served by Google Fonts under the SIL Open Font License.

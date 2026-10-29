@@ -6,6 +6,7 @@
 - Added a light/dark switch to the header (also on phones). Each device remembers its own choice.
 - Self-hostable build (`site/`): a complete HTML document with a favicon, social preview text and a credit line for the flag artwork.
 - Repository with build tools, an end-to-end test and documentation.
+- Released under the MIT License. The flag images keep the license of the worldflags package (LPPL 1.3).
 
 ## 1.0.0 (29 October 2026)
 
